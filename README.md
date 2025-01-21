@@ -5,4 +5,4 @@ and Github functionality.
 
 The scripts analyse climate datafiles...
 
-
+This is used for testing, not everything will work.
